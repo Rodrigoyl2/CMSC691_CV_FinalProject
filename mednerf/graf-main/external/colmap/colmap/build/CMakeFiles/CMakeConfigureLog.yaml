@@ -1,0 +1,11 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/p/work/dta1/env/lib/python3.8/site-packages/cmake/data/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:64 (project)"
+    message: |
+      The system is: Linux - 4.15.0-194-generic - x86_64
+...
